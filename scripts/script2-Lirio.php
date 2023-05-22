@@ -5,7 +5,7 @@
 * de suma, resta, multiplicación y división.
 *
 * @author Jesús Bono
-* @version 1.0
+* @version 2.0
 * @access public
 * @package calculator
 */
